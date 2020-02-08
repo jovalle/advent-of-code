@@ -1,8 +1,8 @@
-# Day 2: 1202 Program Alarm Part 2
+# Day 2: 1202 Program Alarm Pt. 2
 # https://adventofcode.com/2019/day/2
 import os
 import sys
-from part1 import execute_intcode
+from program_alarm import execute_intcode
 
 if __name__ == "__main__":
 

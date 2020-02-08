@@ -1,8 +1,8 @@
-# Day 1: The Tyranny of the Rocket Equation Part 2
+# Day 1: The Tyranny of the Rocket Equation Pt. 2
 # https://adventofcode.com/2019/day/1
 import os
 import sys
-from part1 import calculate_mass
+from rocket_eq import calculate_mass
 
 def calculate_fuel(module):
     """Calculate sum of fuel as per module mass"""

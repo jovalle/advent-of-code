@@ -1,4 +1,4 @@
-# Day 2: 1202 Program Alarm Part 1
+# Day 2: 1202 Program Alarm
 # https://adventofcode.com/2019/day/2
 import os
 import sys

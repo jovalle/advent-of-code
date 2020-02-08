@@ -1,4 +1,4 @@
-# Day 1: The Tyranny of the Rocket Equation Part 1
+# Day 1: The Tyranny of the Rocket Equation
 # https://adventofcode.com/2019/day/1
 import os
 import sys
